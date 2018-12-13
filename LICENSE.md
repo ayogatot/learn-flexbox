@@ -1,0 +1,1 @@
+Copyright &copy; @ayogatot 2018
